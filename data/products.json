@@ -1,0 +1,48 @@
+{
+  "kind": "products",
+  "data": [
+    {
+      "id": "automation_os",
+      "name_es": "Aurora Automation OS",
+      "name_en": "Aurora Automation OS",
+      "problem_es": "Equipos atascados en tareas manuales y procesos rotos.",
+      "problem_en": "Teams stuck in manual work and broken processes.",
+      "solution_es": "Un sistema que orquesta tareas, datos y agentes para que la empresa funcione sola.",
+      "solution_en": "A system that orchestrates tasks, data and agents so the company runs itself.",
+      "benefits_es": "Menos errores, m\u00e1s output, menos dependencia de personas.",
+      "benefits_en": "Fewer errors, more output, less dependency on people.",
+      "hero_es": "Tu empresa, corriendo sola en piloto autom\u00e1tico.",
+      "hero_en": "Your company, running on true autopilot.",
+      "one_liner_es": "Aurora conecta procesos, datos y agentes para que tu operaci\u00f3n se ejecute sola.",
+      "one_liner_en": "Aurora connects processes, data and agents so your operations execute themselves.",
+      "cta_es": "Quiero ver c\u00f3mo se ve en mi empresa.",
+      "cta_en": "I want to see it in my company.",
+      "outbound_open_es": "Veo que tu equipo est\u00e1 creciendo y probablemente est\u00e9n cubriendo huecos con esfuerzo humano.",
+      "outbound_open_en": "I see your team is growing and probably covering gaps with manual effort.",
+      "outbound_body_es": "Aurora arma sistemas que ejecutan marketing, operaciones y ventas sin depender de horas-hombre. En 30 d\u00edas pod\u00e9s tener tu propia capa de automatizaci\u00f3n corriendo.",
+      "outbound_body_en": "Aurora builds systems that execute marketing, operations and sales without extra headcount. In 30 days you can have your own automation layer running."
+    },
+    {
+      "id": "agents_grid",
+      "name_es": "Aurora Agents Grid",
+      "name_en": "Aurora Agents Grid",
+      "problem_es": "Decisiones dispersas, nadie tiene el contexto completo.",
+      "problem_en": "Decisions are fragmented, no one has full context.",
+      "solution_es": "Un conjunto de agentes que miran riesgo, estrategia, growth y operaciones y act\u00faan coordinados.",
+      "solution_en": "A set of agents watching risk, strategy, growth and ops acting in sync.",
+      "benefits_es": "Mejores decisiones, m\u00e1s r\u00e1pido y con menos desgaste.",
+      "benefits_en": "Better decisions, faster, with less friction.",
+      "hero_es": "Un equipo de cerebros digitales mirando tu negocio 24/7.",
+      "hero_en": "A team of digital brains watching your business 24/7.",
+      "one_liner_es": "Aurora Agents Grid convierte tus datos en decisiones accionables todos los d\u00edas.",
+      "one_liner_en": "Aurora Agents Grid turns your data into daily actions.",
+      "cta_es": "Mostrame qu\u00e9 ver\u00eda en mi tablero.",
+      "cta_en": "Show me what my dashboard would see.",
+      "outbound_open_es": "Hoy las decisiones se toman por intuici\u00f3n y reuniones eternas.",
+      "outbound_open_en": "Today decisions are made with intuition and endless meetings.",
+      "outbound_body_es": "Con Aurora Agents Grid ten\u00e9s un sistema que sugiere y ejecuta acciones concretas sobre growth, riesgo y operaciones.",
+      "outbound_body_en": "With Aurora Agents Grid you get a system that suggests and executes concrete actions on growth, risk and ops."
+    }
+  ],
+  "updated_at": 1765298895
+}

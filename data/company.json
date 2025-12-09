@@ -1,0 +1,9 @@
+{
+  "version": "v3000_local_max",
+  "timestamp": 1765226983,
+  "architecture_manifest": "architecture_manifest.json",
+  "product_catalog": "product_catalog_v3000.json",
+  "notes": "Estado m\u00e1ximo local en Mac M4 sin cloud externo.",
+  "name": "Aurora",
+  "updated_at": 1765298895
+}

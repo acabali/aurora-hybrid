@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/><title>Panel</title></head>
+<body>
+<h1>Aurora CEO Panel vΩ</h1>
+<pre id="company"></pre>
+<script>
+async function load(){
+ let r=await fetch("../api/company").catch(()=>null);
+ if(!r){ document.getElementById("company").innerText="API no disponible"; return;}
+ document.getElementById("company").innerText = JSON.stringify(await r.json(),null,2);
+}
+load();
+</script>
+</body>
+</html>

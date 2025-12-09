@@ -1,0 +1,29 @@
+{
+  "agents": {
+    "founder_replica": {
+      "role": "strategy",
+      "priority": 10
+    },
+    "growth_ops": {
+      "role": "growth",
+      "priority": 9
+    },
+    "content_builder": {
+      "role": "content",
+      "priority": 9
+    },
+    "infra_engineer": {
+      "role": "infra",
+      "priority": 8
+    },
+    "automation_master": {
+      "role": "automation",
+      "priority": 10
+    },
+    "ai_supervisor": {
+      "role": "governance",
+      "priority": 10
+    }
+  },
+  "updated_at": 1765298895
+}
